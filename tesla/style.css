@@ -1,0 +1,194 @@
+.b{
+  background-image:url("background.jpeg");
+  background-size: 100%;
+ background-position-y: -97px;
+
+}
+
+.i{
+width:120px;
+margin-left :40px;
+margin-top :12px;
+
+
+}
+
+.list1{
+list-style:none;
+margin-left:323px;
+margin-top:-18px;
+
+}
+
+.item1{
+display:inline;
+color:white;
+font-family:"Gotham";
+font-size:13.7px;
+font-weight: bold;
+margin-left:30px;
+}
+
+@font-face{  
+    font-family: "Gotham";
+    src:url("Gotham.woff2");
+   
+}
+
+.list2{
+    list-style:none;
+    margin-left:1038px;
+    margin-top:-37px;
+}
+
+.p1{
+    font-size:40px;
+    color:white;
+    font-family:"gotham";
+    font-weight:bold;
+    margin-left:690px;
+    margin-top:70px
+}
+
+.p2{
+margin-left:690px;
+margin: top -34px;
+color:rgba(255, 255, 255, 0.908);
+font-family:"gotham";
+font-size:14px;
+text-decoration: underline;
+
+
+
+
+}
+
+.q{
+    width: 780px;
+    height:86px;
+   
+    margin-top:418px;
+    margin-left:385px;
+
+}
+
+.r{list-style:none}
+
+.d1{
+    font-size:26px;
+    color:white;
+    font-family:"gotham";
+     font-weight: bold;
+    }
+
+.d2{font-size:12px;
+    color:white;
+    font-family:"gotham";
+    margin-left:9px;
+    margin-top:9px;
+    }
+.d3 {
+    font-size:12px;
+    color:white;
+    font-family:"gotham";
+    margin: left -7px;
+    margin-top: 8px; 
+} 
+
+.d4{
+    font-size:12px;
+    color:white;
+    font-family:"gotham";
+    margin-left:-2px;
+    margin-top:8px;
+}
+.t 
+{display:inline-block;
+margin-left:83px; }
+.e{
+    margin-left:608px;
+   margin-top:-53px;
+}
+
+
+
+
+
+.b1{
+width:208px;
+height: 40px;
+font-family: "gotham";
+background-color:transparent;
+color:white;
+border-color:white;
+border-style:solid;
+border-radius: 3px;
+font-weight:bold;
+border: width 1px;
+}
+
+.b1:hover{
+
+background-color:white ;
+color:black;
+cursor:pointer;
+transition-duration: 0.5s;
+
+
+
+
+}
+
+.item1:hover{
+    background-color: rgba(130, 130,130, 0.2);
+    box-shadow:0px,0px,0px,10px rgba(130, 130,130, 0.2);
+    border-radius: 1px;
+    cursor:pointer;
+    transition-duration: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
